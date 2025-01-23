@@ -1,6 +1,8 @@
 # kimyounghan_spring
 kimyounghan_spring
 
+
+###스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술###
 250121 첫 강의 시작
 - 인텔리제이 설치
 - 포트번호 8090으로 수정
