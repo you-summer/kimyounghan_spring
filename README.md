@@ -12,4 +12,5 @@ kimyounghan_spring
 - 포트번호 8080 오류 해결 (기존8080 사용중인 프로세스 종료)
   (https://blog.naver.com/jojoor201/223736429610)
 
+250127 섹션 3 완료
 
